@@ -42,4 +42,5 @@ O projeto foi desenvolvido com o auxílio do curso da DIO.
 
 ## PRINT's
 
+![Captura de tela de 2023-02-26 01-00-42](https://user-images.githubusercontent.com/107438747/221392174-00676ecd-a62e-4b67-82a8-568673b07759.png)
 
